@@ -14,10 +14,6 @@
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-akbar-hossain/).
 - 😄 Pronouns: He/Him.
 
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdakbarhossain1.mdakbarhossain1)
-
-![Profile Follower Count](https://img.shields.io/github/followers/mdakbarhossain1.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
-
 ## 🚀 Connect with me
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/akbar.shovo.1)
