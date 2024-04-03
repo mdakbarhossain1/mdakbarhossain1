@@ -79,7 +79,7 @@ Magura Agriculture Park Limited is Agricultural E-commerce website [under develo
     Technology Use  : Laravel & PHP
 </details>
 
-### Project 3 [ESTYLZE](http://khoshrozgroup.com/)
+### Project 3 [ESTYLZE](https://www.estylzefashion.com/)
 
 Estylze Fashion House E-commerce website [under development]
 
