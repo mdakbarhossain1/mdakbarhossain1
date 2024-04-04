@@ -71,7 +71,7 @@ It's a e-commerce website for Khoshroz Kitab Mahal limited
     Technology Use  : Laravel & PHP
 </details>
 
-### Project 2 [MAPL](https://maguraagriculture.com/)
+### Project 2 [MAPL](https://mapl.khoshrozltd.com/)
 
 Magura Agriculture Park Limited is Agricultural E-commerce website [under development]
 
