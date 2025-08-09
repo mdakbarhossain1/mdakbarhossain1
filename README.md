@@ -7,10 +7,10 @@
 
 ### Here are some ideas about me
 
-- 🔭 I’m currently working on **Front-end development projects**.
-- 🌱 I’m currently learning **Full Stack** and **next.js**.
-- 👯 I’m looking to collaborate on open source projects related to front-end development.
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**.
+- 🔭 I’m currently working on **Full Stack development projects**.
+- 🌱 I’m currently learning **Shopify** and **nest.js**. and some no code and low code things
+- 👯 I’m looking to collaborate on open source projects related to Full Stack development.
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**, **NestJs** .
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-akbar-hossain/).
 - 😄 Pronouns: He/Him.
 
